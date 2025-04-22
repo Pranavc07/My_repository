@@ -1,5 +1,6 @@
 🛡️ Simulated Ransomware Framework
-📄 Project Description
+
+
 This project is a simulated ransomware attack chain developed purely for educational and research purposes.
 It models real-world ransomware behavior, including:
 
